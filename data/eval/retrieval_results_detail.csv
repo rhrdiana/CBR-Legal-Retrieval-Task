@@ -1,0 +1,25 @@
+﻿model,query_id,ground_truth,top_k_ids,hit
+TF-IDF,q001,"['case_007', 'case_001', 'case_003']","['case_027', 'case_010', 'case_014', 'case_025', 'case_024']",0
+TF-IDF,q002,"['case_005', 'case_002', 'case_010']","['case_020', 'case_010', 'case_012', 'case_002', 'case_001']",1
+TF-IDF,q003,"['case_008', 'case_012', 'case_004']","['case_033', 'case_003', 'case_014', 'case_015', 'case_032']",0
+TF-IDF,q004,"['case_006', 'case_015', 'case_011']","['case_010', 'case_017', 'case_025', 'case_013', 'case_027']",0
+TF-IDF,q005,"['case_017', 'case_009', 'case_013']","['case_022', 'case_025', 'case_010', 'case_002', 'case_020']",0
+TF-IDF,q006,"['case_014', 'case_016', 'case_020']","['case_002', 'case_010', 'case_009', 'case_013', 'case_012']",0
+TF-IDF,q007,"['case_025', 'case_018', 'case_022']","['case_022', 'case_014', 'case_032', 'case_024', 'case_011']",1
+TF-IDF,q008,"['case_023', 'case_028', 'case_019']","['case_014', 'case_022', 'case_002', 'case_020', 'case_024']",0
+SVM,q001,"['case_007', 'case_001', 'case_003']","['case_027', 'case_010', 'case_014', 'case_025', 'case_024']",0
+SVM,q002,"['case_005', 'case_002', 'case_010']","['case_020', 'case_010', 'case_001', 'case_031', 'case_013']",1
+SVM,q003,"['case_008', 'case_012', 'case_004']","['case_033', 'case_003', 'case_014', 'case_015', 'case_032']",0
+SVM,q004,"['case_006', 'case_015', 'case_011']","['case_010', 'case_017', 'case_025', 'case_013', 'case_027']",0
+SVM,q005,"['case_017', 'case_009', 'case_013']","['case_022', 'case_025', 'case_010', 'case_020', 'case_027']",0
+SVM,q006,"['case_014', 'case_016', 'case_020']","['case_010', 'case_013', 'case_001', 'case_004', 'case_031']",0
+SVM,q007,"['case_025', 'case_018', 'case_022']","['case_022', 'case_014', 'case_032', 'case_024', 'case_011']",1
+SVM,q008,"['case_023', 'case_028', 'case_019']","['case_014', 'case_022', 'case_020', 'case_024', 'case_011']",0
+IndoBERT,q001,"['case_007', 'case_001', 'case_003']","['case_001', 'case_016', 'case_012', 'case_014', 'case_003']",1
+IndoBERT,q002,"['case_005', 'case_002', 'case_010']","['case_001', 'case_016', 'case_012', 'case_014', 'case_003']",0
+IndoBERT,q003,"['case_008', 'case_012', 'case_004']","['case_003', 'case_012', 'case_016', 'case_001', 'case_014']",1
+IndoBERT,q004,"['case_006', 'case_015', 'case_011']","['case_016', 'case_012', 'case_014', 'case_001', 'case_003']",0
+IndoBERT,q005,"['case_017', 'case_009', 'case_013']","['case_012', 'case_001', 'case_016', 'case_003', 'case_014']",0
+IndoBERT,q006,"['case_014', 'case_016', 'case_020']","['case_012', 'case_016', 'case_003', 'case_001', 'case_014']",1
+IndoBERT,q007,"['case_025', 'case_018', 'case_022']","['case_016', 'case_001', 'case_012', 'case_014', 'case_003']",0
+IndoBERT,q008,"['case_023', 'case_028', 'case_019']","['case_001', 'case_012', 'case_016', 'case_014', 'case_003']",0

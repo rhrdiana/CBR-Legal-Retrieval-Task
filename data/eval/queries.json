@@ -1,0 +1,42 @@
+[
+  {
+    "query_id": "q001",
+    "query_text": "terdakwa selaku direktur perusahaan dengan sengaja menggelapkan uang kas perusahaan sebesar ratusan juta rupiah yang dipercayakan kepadanya untuk kepentingan operasional namun digunakan untuk kepentingan pribadi sehingga merugikan pihak korban selaku pemilik perusahaan terdakwa terbukti melanggar pasal 372 kuhp tentang penggelapan dalam jabatan",
+    "ground_truth": ["case_001", "case_003", "case_007"]
+  },
+  {
+    "query_id": "q002",
+    "query_text": "terdakwa selaku karyawan bagian keuangan terbukti secara sah dan meyakinkan melakukan tindak pidana penggelapan dengan pemberatan karena menggelapkan uang hasil penjualan yang dipercayakan oleh perusahaan kepada terdakwa untuk disetor ke rekening perusahaan namun digunakan sendiri melanggar pasal 374 kuhp",
+    "ground_truth": ["case_002", "case_005", "case_010"]
+  },
+  {
+    "query_id": "q003",
+    "query_text": "menimbang bahwa terdakwa telah terbukti secara sah dan meyakinkan bersalah melakukan tindak pidana penggelapan sebagaimana dakwaan primer penuntut umum melanggar pasal 372 kuhp majelis hakim menolak permohonan kasasi terdakwa karena judex facti tidak salah dalam menerapkan hukum",
+    "ground_truth": ["case_004", "case_008", "case_012"]
+  },
+  {
+    "query_id": "q004",
+    "query_text": "terdakwa selaku agen penjualan barang elektronik tidak menyetorkan uang hasil penjualan kepada prinsipal melainkan dipergunakan untuk kepentingan pribadi terdakwa meskipun telah ditagih berkali-kali terdakwa tidak membayar kerugian yang diderita korban terdakwa melanggar pasal 372 kuhp",
+    "ground_truth": ["case_006", "case_011", "case_015"]
+  },
+  {
+    "query_id": "q005",
+    "query_text": "terdakwa selaku bendahara yayasan terbukti melakukan penggelapan dengan pemberatan karena jabatan dengan cara menggunakan uang kas yayasan untuk keperluan pribadi tanpa sepengetahuan pengurus yayasan lainnya perbuatan terdakwa melanggar pasal 374 kuhp jo pasal 64 kuhp",
+    "ground_truth": ["case_009", "case_013", "case_017"]
+  },
+  {
+    "query_id": "q006",
+    "query_text": "mahkamah agung mengabulkan permohonan kasasi penuntut umum dan membatalkan putusan pengadilan tinggi yang membebaskan terdakwa karena judex facti salah menerapkan hukum dalam hal pembuktian unsur penggelapan dengan pemberatan pasal 374 kuhp terdakwa terbukti menyalahgunakan kepercayaan yang diberikan",
+    "ground_truth": ["case_014", "case_016", "case_020"]
+  },
+  {
+    "query_id": "q007",
+    "query_text": "terdakwa dipercaya menyimpan dan mengelola barang milik orang lain namun terdakwa mengalihkan barang tersebut kepada pihak ketiga tanpa sepengetahuan dan persetujuan pemilik sah barang sehingga pemilik mengalami kerugian materil terdakwa terbukti bersalah melakukan penggelapan pasal 372 kuhp",
+    "ground_truth": ["case_018", "case_022", "case_025"]
+  },
+  {
+    "query_id": "q008",
+    "query_text": "terdakwa selaku kepala cabang bank terbukti melakukan penggelapan dalam jabatan dengan cara memindahbukukan dana nasabah ke rekening milik terdakwa sendiri secara bertahap tanpa sepengetahuan nasabah perbuatan terdakwa memenuhi unsur pasal 374 kuhp dan menimbulkan kerugian bagi nasabah maupun institusi perbankan",
+    "ground_truth": ["case_019", "case_023", "case_028"]
+  }
+]

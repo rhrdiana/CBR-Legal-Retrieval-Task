@@ -1,0 +1,4 @@
+﻿Model,Accuracy,Precision,Recall,F1-Score
+TF-IDF + Cosine,1.0,1.0,1.0,1.0
+TF-IDF + SVM,0.8571,0.7347,0.8571,0.7912
+IndoBERT + Cosine,1.0,1.0,1.0,1.0

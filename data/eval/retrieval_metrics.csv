@@ -1,0 +1,4 @@
+﻿Model,Hit_Rate_at_5,k,n_queries
+TF-IDF + Cosine,0.25,5,8
+TF-IDF + SVM,0.25,5,8
+IndoBERT + Cosine,0.375,5,8

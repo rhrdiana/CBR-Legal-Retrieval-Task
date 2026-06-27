@@ -1,0 +1,365 @@
+=== CLEANING LOG ===
+
+[2026-06-27 20:21:41]
+Input File     : putusan_182_k_pid_2026_20260622123409.pdf
+Output File    : case_001.txt
+Original Chars : 18986
+Cleaned Chars  : 11872
+Original Words : 2539
+Cleaned Words  : 1663
+Retention      : 62.53%
+Actions        : remove watermark, remove header/footer, remove page number, normalize whitespace
+Status         : SUCCESS
+----------------------------------------------------------------------
+[2026-06-27 20:21:41]
+Input File     : putusan_205_k_pid_2026_20260622122656.pdf
+Output File    : case_002.txt
+Original Chars : 26269
+Cleaned Chars  : 16121
+Original Words : 3497
+Cleaned Words  : 2246
+Retention      : 61.37%
+Actions        : remove watermark, remove header/footer, remove page number, normalize whitespace
+Status         : SUCCESS
+----------------------------------------------------------------------
+[2026-06-27 20:21:42]
+Input File     : putusan_219_k_pid_2026_20260622121831.pdf
+Output File    : case_003.txt
+Original Chars : 22741
+Cleaned Chars  : 14416
+Original Words : 2992
+Cleaned Words  : 1991
+Retention      : 63.39%
+Actions        : remove watermark, remove header/footer, remove page number, normalize whitespace
+Status         : SUCCESS
+----------------------------------------------------------------------
+[2026-06-27 20:21:42]
+Input File     : putusan_246_k_pid_2026_20260622134139.pdf
+Output File    : case_004.txt
+Original Chars : 30248
+Cleaned Chars  : 19127
+Original Words : 4157
+Cleaned Words  : 2781
+Retention      : 63.23%
+Actions        : remove watermark, remove header/footer, remove page number, normalize whitespace
+Status         : SUCCESS
+----------------------------------------------------------------------
+[2026-06-27 20:21:42]
+Input File     : putusan_254_k_pid_2026_20260622124122.pdf
+Output File    : case_005.txt
+Original Chars : 33675
+Cleaned Chars  : 21241
+Original Words : 4492
+Cleaned Words  : 2991
+Retention      : 63.08%
+Actions        : remove watermark, remove header/footer, remove page number, normalize whitespace
+Status         : SUCCESS
+----------------------------------------------------------------------
+[2026-06-27 20:21:42]
+Input File     : putusan_262_k_pid_2026_20260622122855.pdf
+Output File    : case_006.txt
+Original Chars : 24206
+Cleaned Chars  : 15056
+Original Words : 3282
+Cleaned Words  : 2156
+Retention      : 62.20%
+Actions        : remove watermark, remove header/footer, remove page number, normalize whitespace
+Status         : SUCCESS
+----------------------------------------------------------------------
+[2026-06-27 20:21:42]
+Input File     : putusan_270_k_pid_2026_20260622135129.pdf
+Output File    : case_007.txt
+Original Chars : 29133
+Cleaned Chars  : 17936
+Original Words : 4035
+Cleaned Words  : 2659
+Retention      : 61.57%
+Actions        : remove watermark, remove header/footer, remove page number, normalize whitespace
+Status         : SUCCESS
+----------------------------------------------------------------------
+[2026-06-27 20:21:42]
+Input File     : putusan_273_k_pid_2026_20260622122041.pdf
+Output File    : case_008.txt
+Original Chars : 53540
+Cleaned Chars  : 34046
+Original Words : 7159
+Cleaned Words  : 4783
+Retention      : 63.59%
+Actions        : remove watermark, remove header/footer, remove page number, normalize whitespace
+Status         : SUCCESS
+----------------------------------------------------------------------
+[2026-06-27 20:21:42]
+Input File     : putusan_278_k_pid_2026_20260622121917.pdf
+Output File    : case_009.txt
+Original Chars : 29959
+Cleaned Chars  : 18846
+Original Words : 4079
+Cleaned Words  : 2703
+Retention      : 62.91%
+Actions        : remove watermark, remove header/footer, remove page number, normalize whitespace
+Status         : SUCCESS
+----------------------------------------------------------------------
+[2026-06-27 20:21:42]
+Input File     : putusan_308_k_pid_2026_20260622115559.pdf
+Output File    : case_010.txt
+Original Chars : 20876
+Cleaned Chars  : 12652
+Original Words : 2788
+Cleaned Words  : 1787
+Retention      : 60.61%
+Actions        : remove watermark, remove header/footer, remove page number, normalize whitespace
+Status         : SUCCESS
+----------------------------------------------------------------------
+[2026-06-27 20:21:42]
+Input File     : putusan_310_k_pid_2026_20260622122017.pdf
+Output File    : case_011.txt
+Original Chars : 27755
+Cleaned Chars  : 17544
+Original Words : 3780
+Cleaned Words  : 2529
+Retention      : 63.21%
+Actions        : remove watermark, remove header/footer, remove page number, normalize whitespace
+Status         : SUCCESS
+----------------------------------------------------------------------
+[2026-06-27 20:21:42]
+Input File     : putusan_313_k_pid_2026_20260623205950.pdf
+Output File    : case_012.txt
+Original Chars : 34965
+Cleaned Chars  : 21594
+Original Words : 4641
+Cleaned Words  : 3015
+Retention      : 61.76%
+Actions        : remove watermark, remove header/footer, remove page number, normalize whitespace
+Status         : SUCCESS
+----------------------------------------------------------------------
+[2026-06-27 20:21:42]
+Input File     : putusan_362_k_pid_2026_20260622123946.pdf
+Output File    : case_013.txt
+Original Chars : 31693
+Cleaned Chars  : 20488
+Original Words : 4270
+Cleaned Words  : 2894
+Retention      : 64.65%
+Actions        : remove watermark, remove header/footer, remove page number, normalize whitespace
+Status         : SUCCESS
+----------------------------------------------------------------------
+[2026-06-27 20:21:42]
+Input File     : putusan_366_k_pid_2026_20260622123847.pdf
+Output File    : case_014.txt
+Original Chars : 37186
+Cleaned Chars  : 22569
+Original Words : 4878
+Cleaned Words  : 3127
+Retention      : 60.69%
+Actions        : remove watermark, remove header/footer, remove page number, normalize whitespace
+Status         : SUCCESS
+----------------------------------------------------------------------
+[2026-06-27 20:21:42]
+Input File     : putusan_378_k_pid_2026_20260623205737.pdf
+Output File    : case_015.txt
+Original Chars : 16186
+Cleaned Chars  : 9861
+Original Words : 2125
+Cleaned Words  : 1374
+Retention      : 60.92%
+Actions        : remove watermark, remove header/footer, remove page number, normalize whitespace
+Status         : SUCCESS
+----------------------------------------------------------------------
+[2026-06-27 20:21:43]
+Input File     : putusan_382_k_pid_2026_20260622122442.pdf
+Output File    : case_016.txt
+Original Chars : 25153
+Cleaned Chars  : 15536
+Original Words : 3327
+Cleaned Words  : 2201
+Retention      : 61.77%
+Actions        : remove watermark, remove header/footer, remove page number, normalize whitespace
+Status         : SUCCESS
+----------------------------------------------------------------------
+[2026-06-27 20:21:43]
+Input File     : putusan_385_k_pid_2026_20260622122430.pdf
+Output File    : case_017.txt
+Original Chars : 21931
+Cleaned Chars  : 13417
+Original Words : 2850
+Cleaned Words  : 1849
+Retention      : 61.18%
+Actions        : remove watermark, remove header/footer, remove page number, normalize whitespace
+Status         : SUCCESS
+----------------------------------------------------------------------
+[2026-06-27 20:21:43]
+Input File     : putusan_452_k_pid_2026_20260622122424.pdf
+Output File    : case_018.txt
+Original Chars : 25110
+Cleaned Chars  : 15945
+Original Words : 3375
+Cleaned Words  : 2249
+Retention      : 63.50%
+Actions        : remove watermark, remove header/footer, remove page number, normalize whitespace
+Status         : SUCCESS
+----------------------------------------------------------------------
+[2026-06-27 20:21:43]
+Input File     : putusan_456_k_pid_2026_20260622124147.pdf
+Output File    : case_019.txt
+Original Chars : 33922
+Cleaned Chars  : 20792
+Original Words : 4808
+Cleaned Words  : 3182
+Retention      : 61.29%
+Actions        : remove watermark, remove header/footer, remove page number, normalize whitespace
+Status         : SUCCESS
+----------------------------------------------------------------------
+[2026-06-27 20:21:43]
+Input File     : putusan_479_k_pid_2026_20260622122843.pdf
+Output File    : case_020.txt
+Original Chars : 30964
+Cleaned Chars  : 19510
+Original Words : 4076
+Cleaned Words  : 2700
+Retention      : 63.01%
+Actions        : remove watermark, remove header/footer, remove page number, normalize whitespace
+Status         : SUCCESS
+----------------------------------------------------------------------
+[2026-06-27 20:21:43]
+Input File     : putusan_483_k_pid_2026_20260622121215.pdf
+Output File    : case_021.txt
+Original Chars : 40906
+Cleaned Chars  : 25629
+Original Words : 5557
+Cleaned Words  : 3681
+Retention      : 62.65%
+Actions        : remove watermark, remove header/footer, remove page number, normalize whitespace
+Status         : SUCCESS
+----------------------------------------------------------------------
+[2026-06-27 20:21:43]
+Input File     : putusan_519_k_pid_2026_20260622134704.pdf
+Output File    : case_022.txt
+Original Chars : 24617
+Cleaned Chars  : 15584
+Original Words : 3421
+Cleaned Words  : 2295
+Retention      : 63.31%
+Actions        : remove watermark, remove header/footer, remove page number, normalize whitespace
+Status         : SUCCESS
+----------------------------------------------------------------------
+[2026-06-27 20:21:43]
+Input File     : putusan_546_k_pid_2026_20260622115334.pdf
+Output File    : case_023.txt
+Original Chars : 74385
+Cleaned Chars  : 46182
+Original Words : 10331
+Cleaned Words  : 6830
+Retention      : 62.09%
+Actions        : remove watermark, remove header/footer, remove page number, normalize whitespace
+Status         : SUCCESS
+----------------------------------------------------------------------
+[2026-06-27 20:21:43]
+Input File     : putusan_557_k_pid_2026_20260622120615.pdf
+Output File    : case_024.txt
+Original Chars : 33906
+Cleaned Chars  : 21579
+Original Words : 4529
+Cleaned Words  : 3028
+Retention      : 63.64%
+Actions        : remove watermark, remove header/footer, remove page number, normalize whitespace
+Status         : SUCCESS
+----------------------------------------------------------------------
+[2026-06-27 20:21:43]
+Input File     : putusan_561_k_pid_2026_20260623205634.pdf
+Output File    : case_025.txt
+Original Chars : 28759
+Cleaned Chars  : 17559
+Original Words : 3902
+Cleaned Words  : 2526
+Retention      : 61.06%
+Actions        : remove watermark, remove header/footer, remove page number, normalize whitespace
+Status         : SUCCESS
+----------------------------------------------------------------------
+[2026-06-27 20:21:43]
+Input File     : putusan_571_k_pid_2026_20260622123132.pdf
+Output File    : case_026.txt
+Original Chars : 24946
+Cleaned Chars  : 15787
+Original Words : 3359
+Cleaned Words  : 2233
+Retention      : 63.28%
+Actions        : remove watermark, remove header/footer, remove page number, normalize whitespace
+Status         : SUCCESS
+----------------------------------------------------------------------
+[2026-06-27 20:21:43]
+Input File     : putusan_583_k_pid_2026_20260622120224.pdf
+Output File    : case_027.txt
+Original Chars : 22142
+Cleaned Chars  : 14047
+Original Words : 2933
+Cleaned Words  : 1932
+Retention      : 63.44%
+Actions        : remove watermark, remove header/footer, remove page number, normalize whitespace
+Status         : SUCCESS
+----------------------------------------------------------------------
+[2026-06-27 20:21:43]
+Input File     : putusan_607_k_pid_2026_20260622121504.pdf
+Output File    : case_028.txt
+Original Chars : 24631
+Cleaned Chars  : 15420
+Original Words : 3268
+Cleaned Words  : 2142
+Retention      : 62.60%
+Actions        : remove watermark, remove header/footer, remove page number, normalize whitespace
+Status         : SUCCESS
+----------------------------------------------------------------------
+[2026-06-27 20:21:44]
+Input File     : putusan_616_k_pid_2026_20260622115836.pdf
+Output File    : case_029.txt
+Original Chars : 22014
+Cleaned Chars  : 13853
+Original Words : 2945
+Cleaned Words  : 1944
+Retention      : 62.93%
+Actions        : remove watermark, remove header/footer, remove page number, normalize whitespace
+Status         : SUCCESS
+----------------------------------------------------------------------
+[2026-06-27 20:21:44]
+Input File     : putusan_648_k_pid_2026_20260622115310.pdf
+Output File    : case_030.txt
+Original Chars : 21152
+Cleaned Chars  : 12939
+Original Words : 2831
+Cleaned Words  : 1830
+Retention      : 61.17%
+Actions        : remove watermark, remove header/footer, remove page number, normalize whitespace
+Status         : SUCCESS
+----------------------------------------------------------------------
+[2026-06-27 20:21:44]
+Input File     : putusan_684_k_pid_2026_20260623205722.pdf
+Output File    : case_031.txt
+Original Chars : 43333
+Cleaned Chars  : 27001
+Original Words : 5776
+Cleaned Words  : 3774
+Retention      : 62.31%
+Actions        : remove watermark, remove header/footer, remove page number, normalize whitespace
+Status         : SUCCESS
+----------------------------------------------------------------------
+[2026-06-27 20:21:44]
+Input File     : putusan_689_k_pid_2026_20260623205828.pdf
+Output File    : case_032.txt
+Original Chars : 18650
+Cleaned Chars  : 11562
+Original Words : 2498
+Cleaned Words  : 1622
+Retention      : 61.99%
+Actions        : remove watermark, remove header/footer, remove page number, normalize whitespace
+Status         : SUCCESS
+----------------------------------------------------------------------
+[2026-06-27 20:21:44]
+Input File     : putusan_727_k_pid_2026_20260622121351.pdf
+Output File    : case_033.txt
+Original Chars : 18773
+Cleaned Chars  : 11697
+Original Words : 2509
+Cleaned Words  : 1633
+Retention      : 62.31%
+Actions        : remove watermark, remove header/footer, remove page number, normalize whitespace
+Status         : SUCCESS
+----------------------------------------------------------------------

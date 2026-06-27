@@ -1,0 +1,234 @@
+[
+  {
+    "query_id": "q001",
+    "ground_truth": [
+      "case_001",
+      "case_003",
+      "case_007"
+    ],
+    "tfidf_top_k": [
+      "case_024",
+      "case_027",
+      "case_025",
+      "case_022",
+      "case_014"
+    ],
+    "svm_top_k": [
+      "case_024",
+      "case_027",
+      "case_025",
+      "case_022",
+      "case_014"
+    ],
+    "bert_top_k": [
+      "case_031",
+      "case_003",
+      "case_006",
+      "case_033",
+      "case_001"
+    ]
+  },
+  {
+    "query_id": "q002",
+    "ground_truth": [
+      "case_002",
+      "case_005",
+      "case_010"
+    ],
+    "tfidf_top_k": [
+      "case_020",
+      "case_010",
+      "case_002",
+      "case_012",
+      "case_031"
+    ],
+    "svm_top_k": [
+      "case_020",
+      "case_010",
+      "case_031",
+      "case_001",
+      "case_013"
+    ],
+    "bert_top_k": [
+      "case_031",
+      "case_003",
+      "case_033",
+      "case_015",
+      "case_006"
+    ]
+  },
+  {
+    "query_id": "q003",
+    "ground_truth": [
+      "case_004",
+      "case_008",
+      "case_012"
+    ],
+    "tfidf_top_k": [
+      "case_003",
+      "case_028",
+      "case_033",
+      "case_015",
+      "case_032"
+    ],
+    "svm_top_k": [
+      "case_003",
+      "case_028",
+      "case_033",
+      "case_015",
+      "case_032"
+    ],
+    "bert_top_k": [
+      "case_003",
+      "case_033",
+      "case_015",
+      "case_029",
+      "case_031"
+    ]
+  },
+  {
+    "query_id": "q004",
+    "ground_truth": [
+      "case_006",
+      "case_011",
+      "case_015"
+    ],
+    "tfidf_top_k": [
+      "case_010",
+      "case_024",
+      "case_013",
+      "case_025",
+      "case_017"
+    ],
+    "svm_top_k": [
+      "case_010",
+      "case_024",
+      "case_013",
+      "case_025",
+      "case_017"
+    ],
+    "bert_top_k": [
+      "case_031",
+      "case_003",
+      "case_015",
+      "case_033",
+      "case_006"
+    ]
+  },
+  {
+    "query_id": "q005",
+    "ground_truth": [
+      "case_009",
+      "case_013",
+      "case_017"
+    ],
+    "tfidf_top_k": [
+      "case_025",
+      "case_022",
+      "case_020",
+      "case_011",
+      "case_002"
+    ],
+    "svm_top_k": [
+      "case_025",
+      "case_022",
+      "case_020",
+      "case_011",
+      "case_001"
+    ],
+    "bert_top_k": [
+      "case_031",
+      "case_003",
+      "case_033",
+      "case_006",
+      "case_017"
+    ]
+  },
+  {
+    "query_id": "q006",
+    "ground_truth": [
+      "case_014",
+      "case_016",
+      "case_020"
+    ],
+    "tfidf_top_k": [
+      "case_002",
+      "case_009",
+      "case_013",
+      "case_012",
+      "case_031"
+    ],
+    "svm_top_k": [
+      "case_013",
+      "case_031",
+      "case_001",
+      "case_022",
+      "case_020"
+    ],
+    "bert_top_k": [
+      "case_003",
+      "case_015",
+      "case_033",
+      "case_029",
+      "case_031"
+    ]
+  },
+  {
+    "query_id": "q007",
+    "ground_truth": [
+      "case_018",
+      "case_022",
+      "case_025"
+    ],
+    "tfidf_top_k": [
+      "case_022",
+      "case_014",
+      "case_011",
+      "case_021",
+      "case_024"
+    ],
+    "svm_top_k": [
+      "case_022",
+      "case_014",
+      "case_011",
+      "case_024",
+      "case_003"
+    ],
+    "bert_top_k": [
+      "case_031",
+      "case_003",
+      "case_015",
+      "case_033",
+      "case_006"
+    ]
+  },
+  {
+    "query_id": "q008",
+    "ground_truth": [
+      "case_019",
+      "case_023",
+      "case_028"
+    ],
+    "tfidf_top_k": [
+      "case_024",
+      "case_011",
+      "case_022",
+      "case_001",
+      "case_002"
+    ],
+    "svm_top_k": [
+      "case_024",
+      "case_011",
+      "case_022",
+      "case_001",
+      "case_031"
+    ],
+    "bert_top_k": [
+      "case_031",
+      "case_003",
+      "case_033",
+      "case_001",
+      "case_006"
+    ]
+  }
+]
